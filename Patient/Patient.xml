@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Patient xmlns:tns="http://www.MElHagez.com/Patient" 
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+             xsi:schemaLocation="http://www.MElHagez.com/Patient Patient.xsd" id="123" >
+  <tns:name>tns:name</tns:name>
+  <tns:age>0</tns:age>
+  <tns:gender>M</tns:gender>
+  <tns:phone>tns:phone</tns:phone>
+  <tns:paymentType>
+    <tns:cash>0.0</tns:cash>
+  </tns:paymentType>
+</tns:Patient>
